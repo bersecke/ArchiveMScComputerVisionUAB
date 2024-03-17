@@ -8,3 +8,7 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 4 - Content Based Image Retrieval | Keypoint Descriptors](https://drive.google.com/file/d/1dBIwDaU_hu7f-DHUplQCCQgbHTw4oE4V/view?usp=sharing)
 * [Week 5 - Content Based Image Retrieval | Combining Descriptors](https://drive.google.com/file/d/1U0cHKc6zvjdU9B0FjzHQkghsdmLtAo5D/view?usp=sharing)
 
+## M2 - Optimization and Inference for Computer Vision
+* [Week 1 - Image Inpainting](https://drive.google.com/file/d/1Uwy78_bItmsPtT7-TukBHlILRvOynoEj/view?usp=sharing)
+* [Week 2 - Poisson Editing](https://drive.google.com/file/d/1XRUVD0V0RukfzzTwOF6SRukTa28ie5vY/view?usp=sharing)
+* [Week 3 - Chan-Vese Segmentation](https://drive.google.com/file/d/11_ah_cCJDCBX1T4KDE6r_YBkCbRM1pct/view?usp=sharing)
