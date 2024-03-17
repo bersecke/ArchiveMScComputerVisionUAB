@@ -12,3 +12,10 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 1 - Image Inpainting](https://drive.google.com/file/d/1Uwy78_bItmsPtT7-TukBHlILRvOynoEj/view?usp=sharing)
 * [Week 2 - Poisson Editing](https://drive.google.com/file/d/1XRUVD0V0RukfzzTwOF6SRukTa28ie5vY/view?usp=sharing)
 * [Week 3 - Chan-Vese Segmentation](https://drive.google.com/file/d/11_ah_cCJDCBX1T4KDE6r_YBkCbRM1pct/view?usp=sharing)
+
+## M3 - Machine Learning for Computer Vision
+* [Week 1 - Introduction to Pytorch](https://drive.google.com/file/d/1YyWpeug1oKcuRdjMA25sVE-4KwPHe71i/view?usp=sharing)
+* [Week 2 - Object Detection and Segmentation](https://drive.google.com/file/d/1XxwLS48sHd4ud70ziABQaILIGG7ZEkif/view?usp=sharing)
+* [Week 3 - Challenges of Object Detection](https://drive.google.com/file/d/1_lKfXCKlNZ_tzmr5kdAjBBKMa3qK-fpH/view?usp=sharing)
+* [Week 4 - Image Retrieval](https://drive.google.com/file/d/1JwMxqmfjU172I-txM8E2IqPFWIV56ZWL/view?usp=sharing)
+* [Week 5 - Handcrafted and Learnt Classification](https://drive.google.com/file/d/168oVAGb35W357j8YoCp1XN8m1Dtu-zn6/view?usp=sharing)
