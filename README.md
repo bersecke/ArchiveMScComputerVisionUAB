@@ -34,3 +34,10 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 3 - Challenges of Object Detection (Slides)](https://drive.google.com/file/d/1pXAvMVglg2W_yHBu9uB69E56UqWQEUgF/view?usp=sharing)
 * [Week 4 - Image Retrieval (Slides)](https://drive.google.com/file/d/1zamAK-o5e9UDbcILCTAHGfyN_CZiGfj-/view?usp=sharing)
 * [Final Slides - An Overview](https://drive.google.com/file/d/1asVNEhNhtlR7631a8NUWA7WUbfhKc8Cf/view?usp=sharing)
+
+## M6 - Video Analysis
+* [Week 1 - Vehicle Tracking (Slides)](https://docs.google.com/presentation/d/1b-eFh88J88LwPVUzVG7CnKd2bCKjFuV0k3wz20gbiys/edit?usp=sharing)
+* [Week 2 - Vehicle Tracking (Slides)](https://docs.google.com/presentation/d/1cJgnGsZ_zFN-SQ8M_MKmd5oCOfhm3N47TSwc79DzERw/edit?usp=sharing)
+* [Week 3 - Vehicle Tracking (Slides)](https://docs.google.com/presentation/d/1QNXxZ6kOAOW0eHhqyCqVQ9JyTFEWe1DINnSzFW9IPxw/edit?usp=sharing)
+* [Week 4 - Vehicle Tracking (Slides)](https://docs.google.com/presentation/d/1LHvtwKUPL6Nv5NJnm9f4ZVI72eVLxeQp0nf9mL_GlRY/edit?usp=sharing)
+* [Final Slides - Vehicle Tracking](https://docs.google.com/presentation/d/1uCvylasJCAEROa8aKKLNuCtGvliseHNtFB3C2ptqw7A/edit?usp=sharing)
