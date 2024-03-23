@@ -33,3 +33,4 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 2 - Object Detection and Segmentation (Slides)](https://drive.google.com/file/d/1IB_M_QYY8YOm4GvENnNUshxP-RFVmG3P/view?usp=sharing)
 * [Week 3 - Challenges of Object Detection (Slides)](https://drive.google.com/file/d/1pXAvMVglg2W_yHBu9uB69E56UqWQEUgF/view?usp=sharing)
 * [Week 4 - Image Retrieval (Slides)](https://drive.google.com/file/d/1zamAK-o5e9UDbcILCTAHGfyN_CZiGfj-/view?usp=sharing)
+* [Final Slides - An Overview](https://drive.google.com/file/d/1asVNEhNhtlR7631a8NUWA7WUbfhKc8Cf/view?usp=sharing)
