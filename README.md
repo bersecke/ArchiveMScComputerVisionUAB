@@ -7,6 +7,7 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 3 - Content Based Image Retrieval | Text and Texture Descriptors](https://drive.google.com/file/d/1LW1N_TUKbZuxOggQfv5tpR_GmZw3l02u/view?usp=sharing)
 * [Week 4 - Content Based Image Retrieval | Keypoint Descriptors](https://drive.google.com/file/d/1dBIwDaU_hu7f-DHUplQCCQgbHTw4oE4V/view?usp=sharing)
 * [Week 5 - Content Based Image Retrieval | Combining Descriptors](https://drive.google.com/file/d/1U0cHKc6zvjdU9B0FjzHQkghsdmLtAo5D/view?usp=sharing)
+* [Final Report - Content Based Image Retrieval](https://drive.google.com/file/d/1ycER4MnCmgVI0HgZkFUHeJVIliBvE1tM/view?usp=drive_link)
 
 ## M2 - Optimization and Inference for Computer Vision
 * [Week 1 - Image Inpainting](https://drive.google.com/file/d/1Uwy78_bItmsPtT7-TukBHlILRvOynoEj/view?usp=sharing)
