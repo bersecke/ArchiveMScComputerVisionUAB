@@ -15,11 +15,9 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 3 - Chan-Vese Segmentation (Slides)](https://drive.google.com/file/d/11_ah_cCJDCBX1T4KDE6r_YBkCbRM1pct/view?usp=sharing)
 
 ## M3 - Machine Learning for Computer Vision
-* [Week 1 - Introduction to Pytorch (Slides)](https://drive.google.com/file/d/1YyWpeug1oKcuRdjMA25sVE-4KwPHe71i/view?usp=sharing)
-* [Week 2 - Object Detection and Segmentation (Slides)](https://drive.google.com/file/d/1XxwLS48sHd4ud70ziABQaILIGG7ZEkif/view?usp=sharing)
-* [Week 3 - Challenges of Object Detection (Slides)](https://drive.google.com/file/d/1_lKfXCKlNZ_tzmr5kdAjBBKMa3qK-fpH/view?usp=sharing)
-* [Week 4 - Image Retrieval (Slides)](https://drive.google.com/file/d/1JwMxqmfjU172I-txM8E2IqPFWIV56ZWL/view?usp=sharing)
-* [Week 5 - Handcrafted and Learnt Classification (Slides)](https://drive.google.com/file/d/168oVAGb35W357j8YoCp1XN8m1Dtu-zn6/view?usp=sharing)
+* [Week 3 - Deep Learning Classification (Slides)](https://drive.google.com/file/d/1yVYfjzgEzjjGfVQ6pIbXFJLHp9UuU70q/view?usp=sharing)
+* [Week 4 - Deep Learning Classification (Slides)](https://drive.google.com/file/d/12yQH_N_aJgKMqzSSYN9RMTgcs3xeJlyO/view?usp=sharing)
+* [Week 5 - Handcrafted and Learnt Classification (Slides)](https://drive.google.com/file/d/1ZernIFSvk5alG3vNdYuKHYM0-NmDAtbU/view?usp=sharing)
 * [Final Report - Hand-crafted vs Learnt Features in Image Classification](https://drive.google.com/file/d/1eaeKi0fKMAB7N0i56PY63He8TG5Re3uR/view?usp=sharing)
 
 ## M4 - 3D Vision
@@ -29,3 +27,9 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 4 - 3D Recovery of Urban Scenes | Triangulation, Fundamental Matrix and Depth Maps (Report)](https://drive.google.com/file/d/13q1ntgT4AvYP-5TMRd7PExkEYL5v6pHF/view?usp=sharing)
 * [Week 5 - 3D Recovery of Urban Scenes | Structure from Motion and Bundle Adjustment (Report)](https://drive.google.com/file/d/1pN3hFUKUgLAutWWx3-i0hmOF2aYic29F/view?usp=sharing)
 * [Final Slides - 3D Recovery of Urban Scenes](https://drive.google.com/file/d/1TEp0Pg58ALEP3P5UhGrBw4lfhET4FyJ4/view?usp=sharing)
+
+## M5 - Visual Recognition
+* [Week 1 - Introduction to Pytorch (Slides)](https://drive.google.com/file/d/1R4SflawzZlRwRzia9kLDda8yDxHmZJeS/view?usp=sharing)
+* [Week 2 - Object Detection and Segmentation (Slides)](https://drive.google.com/file/d/1IB_M_QYY8YOm4GvENnNUshxP-RFVmG3P/view?usp=sharing)
+* [Week 3 - Challenges of Object Detection (Slides)](https://drive.google.com/file/d/1pXAvMVglg2W_yHBu9uB69E56UqWQEUgF/view?usp=sharing)
+* [Week 4 - Image Retrieval (Slides)](https://drive.google.com/file/d/1zamAK-o5e9UDbcILCTAHGfyN_CZiGfj-/view?usp=sharing)
