@@ -20,3 +20,4 @@ A compilation of some of the documents detailing the work carried out during my 
 * [Week 3 - Challenges of Object Detection](https://drive.google.com/file/d/1_lKfXCKlNZ_tzmr5kdAjBBKMa3qK-fpH/view?usp=sharing)
 * [Week 4 - Image Retrieval](https://drive.google.com/file/d/1JwMxqmfjU172I-txM8E2IqPFWIV56ZWL/view?usp=sharing)
 * [Week 5 - Handcrafted and Learnt Classification](https://drive.google.com/file/d/168oVAGb35W357j8YoCp1XN8m1Dtu-zn6/view?usp=sharing)
+* [Final Report - Hand-crafted vs Learnt Features in Image Classification](https://drive.google.com/file/d/1eaeKi0fKMAB7N0i56PY63He8TG5Re3uR/view?usp=drive_link)
